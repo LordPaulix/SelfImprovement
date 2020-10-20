@@ -1,0 +1,6 @@
+Tools need to install
+
+1) git
+2) ide (VSC or sublime text 3)
+3) signed to github
+4) nodeJS
