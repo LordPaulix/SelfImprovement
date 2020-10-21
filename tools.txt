@@ -4,3 +4,12 @@ Tools need to install
 2) ide (VSC or sublime text 3)
 3) signed to github
 4) nodeJS
+5) browser sync
+   browser-sync start --server --directory --files "*"
+6) to share code/ ask questions
+   jsfiddle.net
+   codepen.io
+   css-tricks.com
+7) &quot; >-- change to accommodate other utf
+   &nbsp; >-- to make group of words to wrap
+    &copy; >-- symbol of copyright
