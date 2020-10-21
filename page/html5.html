@@ -14,6 +14,17 @@
         function addParagraphText(){
             document.getElementById("para").innerHTML = "Thanks for adding text";
         }
+
+        function displayInput(){
+          var testInput = document.getElementById("name").value;
+          
+          if (testInput.length == 0)
+          {
+            document.getElementById("para").innerHTML = "Hey input is blank";
+          }
+          else
+            document.getElementById("para").innerHTML = testInput;
+        }
     </script>
   </head>
 
